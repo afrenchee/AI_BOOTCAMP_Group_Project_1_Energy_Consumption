@@ -37,12 +37,11 @@ This project focuses on analyzing U.S. energy consumption across regions and ind
 ---
 
 ## Project Members:
-- Johnathan Marsh
 - Austin French
 - Eric Wang
 - Scott Horvath
 - Arshiya Mohammed
-
+- Johnathan Marsh
 ---
 
 ## Project Structure:
