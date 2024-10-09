@@ -1,3 +1,4 @@
+
 # U.S. Energy Consumption Analysis: Trends, Types, and Future Costs
 
 ## Project Overview
@@ -37,11 +38,12 @@ This project focuses on analyzing U.S. energy consumption across regions and ind
 ---
 
 ## Project Members:
+- Johnathan Marsh
 - Austin French
 - Eric Wang
 - Scott Horvath
 - Arshiya Mohammed
-- Johnathan Marsh
+
 ---
 
 ## Project Structure:
@@ -121,4 +123,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact:
-TBD
+For questions or collaboration, please reach out to any of the team members.
