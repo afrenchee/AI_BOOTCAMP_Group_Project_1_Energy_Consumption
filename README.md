@@ -6,10 +6,9 @@ This project focuses on analyzing U.S. energy consumption across regions and ind
 
 ### Key Objectives:
 1. **National and Regional Energy Consumption**: Analyze U.S. energy consumption at both the national and regional levels.
-2. ~~**Energy Type Analysis**: Breakdown energy consumption by type (coal, nuclear, renewables) across regions.~~ Consider dropping this?
-3. **Industry-Specific Consumption**: Evaluate energy consumption by major industries, and assess efficiency (kWh per dollar of output).
-4. **Predictive Modeling**: Forecast future energy consumption and costs, particularly for the largest energy consumers.
-5. **Insights and Recommendations**: Identify trends, future risks, and offer recommendations based on the analysis.
+2. **Industry-Specific Consumption**: Evaluate energy consumption by major industries, and assess efficiency (kWh per dollar of output).
+3. **Predictive Modeling**: Forecast future energy consumption and costs, particularly for the largest energy consumers.
+4. **Insights and Recommendations**: Identify trends, future risks, and offer recommendations based on the analysis.
 
 ---
 
@@ -20,17 +19,12 @@ This project focuses on analyzing U.S. energy consumption across regions and ind
    - **Data Source**: CSV file - Total Energy Consumption by State.
    - Analyze the total energy consumption per state to identify the highest and lowest energy-consuming regions.
 
-~~### 2) **Energy Type Analysis**:~~
- ~~- **Measurement/Data**: kWh consumption per energy type (coal, biomass, geothermal, hydropower, natural gas, nuclear, petroleum, solar, wind).~~
-   ~~- **Data Source**: CSV file - Consumptions for different energy types.~~
-  ~~- Analyze how energy consumption varies across different types and regions, and determine which type is most dominant in each state.~~
-
-### 3) **Industry Energy Consumption**:
+### 2) **Industry Energy Consumption**:
    - **Measurement/Data**: kWh/$ consumption for various industries (Residential, Commercial, Industrial, Transportation).
    - **Data Source**: CSV files - Consumption and Expenditures for Residential, Commercial, Industrial, Transportation by State.
    - Examine how energy consumption and expenditures vary across industries in each state, and calculate energy efficiency (kWh/$).
 
-### 4) **Predictive Analysis**:
+### 3) **Predictive Analysis**:
    - **Measurement/Data**: Future prediction of energy consumption and cost per kWh for the largest energy-consuming states and industries.
    - **Data Source**: Combined data from the previous analyses (state, type, and industry-level data).
    - Use time series forecasting models to predict the future cost of energy and identify potential risks for the highest consumers.
