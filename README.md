@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# AI_BOOTCAMP_Group_Project_1_Energy_Consumption
+
+This is the README.md in the Main Branch.
+=======
 
 # U.S. Energy Consumption Analysis: Trends, Types, and Future Costs
 
@@ -117,3 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact:
 For questions or collaboration, please reach out to any of the team members.
+>>>>>>> 84d502d901e58bc54cf89a66fe1c300459a826fe
