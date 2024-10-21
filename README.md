@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# AI_BOOTCAMP_Group_Project_1_Energy_Consumption
-
-This is the README.md in the Main Branch.
-=======
 
 # U.S. Energy Consumption Analysis: Trends, Types, and Future Costs
 
@@ -12,8 +7,8 @@ This project focuses on analyzing U.S. energy consumption across regions and ind
 ### Key Objectives:
 1. **National and Regional Energy Consumption**: Analyze U.S. energy consumption at both the national and regional levels.
 2. **Industry-Specific Consumption**: Evaluate energy consumption by major industries, and assess efficiency (kWh per dollar of output).
-3. **Predictive Modeling**: Forecast future energy consumption and costs, particularly for the largest energy consumers.
-4. **Insights and Recommendations**: Identify trends, future risks, and offer recommendations based on the analysis.
+4. **Predictive Modeling**: Forecast future energy consumption and costs, particularly for the largest energy consumers.
+5. **Insights and Recommendations**: Identify trends, future risks, and offer recommendations based on the analysis.
 
 ---
 
@@ -29,7 +24,7 @@ This project focuses on analyzing U.S. energy consumption across regions and ind
    - **Data Source**: CSV files - Consumption and Expenditures for Residential, Commercial, Industrial, Transportation by State.
    - Examine how energy consumption and expenditures vary across industries in each state, and calculate energy efficiency (kWh/$).
 
-### 3) **Predictive Analysis**:
+### 4) **Predictive Analysis**:
    - **Measurement/Data**: Future prediction of energy consumption and cost per kWh for the largest energy-consuming states and industries.
    - **Data Source**: Combined data from the previous analyses (state, type, and industry-level data).
    - Use time series forecasting models to predict the future cost of energy and identify potential risks for the highest consumers.
@@ -122,4 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact:
 For questions or collaboration, please reach out to any of the team members.
->>>>>>> 84d502d901e58bc54cf89a66fe1c300459a826fe
