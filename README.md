@@ -110,11 +110,11 @@ Forecast Energy Consumption (1970 - 2035)
 
 Industry Data.ipynb
 Written By Scott Horvath, this program cleans and organizes both the “Total Energy Consumption By State.csv" and “Total Energy Consumption By Sector.csv” files, giving us graphs showing:
-Energy Consumption By Sector from 1970 - 2022 YES
+Energy Consumption By Sector from 1970 - 2022
 Average Energy Consumption By State (2008 - 2022)
 
 Data Centers.ipynb
-Written By Johnathan Marsh, this program gives us a graph showing the energy usage by three large companies, Citadel, Google, Microsoft, compared to three low population states, Vermont, Wyoming, and Rhode Island, and how close the consumption between the industries and states is. YES
+Written By Johnathan Marsh, this program gives us a graph showing the energy usage by three large companies, Citadel, Google, Microsoft, compared to three low population states, Vermont, Wyoming, and Rhode Island, and how close the consumption between the industries and states is.
 
 Generation -> New_Total_Energy_Generation_Graph.ipynb
 Written by Johnathan Marsh with help from Eric Wang, this program uses an giving us a graph representing Total Electric Energy Generation Forecast (1970 - 2035)
