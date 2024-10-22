@@ -101,36 +101,23 @@ The project is organized into the following sections:
    - Create a pull request for code review.
 3. Ensure that all code is well-commented and includes relevant documentation for clarity.
 
-
-
 Toatal_Energy_consuption_State.ipynb
-
 Written by Eric Wang, this program cleans and organizes the “Total Energy Consumption By State.csv” file, giving us graphs representing:
 Energy Consumption by Region (1970 - 2022)
 Top Ten Energy Consuming States for 2022
 Bottom 10 Energy Consuming States (2022)
 Forecast Energy Consumption (1970 - 2035)
 
-
-
 Industry Data.ipynb
-
 Written By Scott Horvath, this program cleans and organizes both the “Total Energy Consumption By State.csv" and “Total Energy Consumption By Sector.csv” files, giving us graphs showing:
 Energy Consumption By Sector from 1970 - 2022 YES
 Average Energy Consumption By State (2008 - 2022)
 
-
-
 Data Centers.ipynb
-
 Written By Johnathan Marsh, this program gives us a graph showing the energy usage by three large companies, Citadel, Google, Microsoft, compared to three low population states, Vermont, Wyoming, and Rhode Island, and how close the consumption between the industries and states is. YES
-
-
 
 Generation -> New_Total_Energy_Generation_Graph.ipynb
 Written by Johnathan Marsh with help from Eric Wang, this program uses an giving us a graph representing Total Electric Energy Generation Forecast (1970 - 2035)
-
-
 
 Github management and organization by Austin French
 
